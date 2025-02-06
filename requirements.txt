@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+typing-extensions
+python-dotenv
+pymysql
+pandas
+matplotlib
